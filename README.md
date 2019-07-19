@@ -9,8 +9,9 @@ tool ini di buat untuk memudahkan kalian dalam melakukan installasi tool lainnya
 <li><code>sh bucin.sh</code></li>
 </ul>
 <br />
+#            created by Mr.GameOver (aadityaa)
 <br />
-# created by Mr.GameOver (aadityaa)
+<br />
 <br />
 <br />
 <Img src="https://github.com/MrGameOver16/InstallBucin/blob/master/Screenshot_2019-07-20-03-39-10.png">

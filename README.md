@@ -1,4 +1,4 @@
-# InstallBucin v1
+# InstallBucin v.1
 tool ini di buat untuk memudahkan kalian dalam melakukan installasi tool lainnya :)
 <ul>
 <li><code>apt update && apt upgrade</code></li>

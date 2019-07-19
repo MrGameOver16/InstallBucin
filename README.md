@@ -11,3 +11,5 @@ tool ini di buat untuk memudahkan kalian dalam melakukan installasi tool lainnya
 <br />
 <br />
 # created by Mr.GameOver
+
+<Img src="https://github.com/MrGameOver16/InstallBucin/blob/master/Screenshot_2019-07-20-03-39-10.png">

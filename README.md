@@ -14,4 +14,4 @@ tool ini di buat untuk memudahkan kalian dalam melakukan installasi tool lainnya
 <br />
 <br />
 <br />
-<Img src="https://github.com/MrGameOver16/InstallBucin/blob/master/Screenshot_2019-07-20-03-39-10.png">
+<Img src="https://github.com/MrGameOver16/InstallBucin/blob/master/Screenshot_2019-07-21-00-45-28.png">
